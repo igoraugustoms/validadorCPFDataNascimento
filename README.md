@@ -1,16 +1,16 @@
 # API validadora de CPF e idade
 
-###Objetivo do projeto
+### Objetivo do projeto
 <p> O objetivo é criar uma API usando Flask. Ela recebe como input um JSON contendo os campos CPF e data de nascimento (DD/MM/YYYY). O retorno é também um JSON, mas informando se o CPF é válido, se a data é válida, a idade atual da pessoa e o status de sucesso ou não.  
 </p>
 
-###Tecnologias e ferramentas usadas durante desenvolvimento
+### Tecnologias e ferramentas usadas durante desenvolvimento
 - ``Python``
 - ``Flask``
 - ``Pycharm``
 - ``Postman``
 
-###Como rodar e testar
+### Como rodar e testar
 <p>
 O primeiro passo para testar é ter uma versão do Python 3 instalada na máquina, além de executar o pip install flask.
 
